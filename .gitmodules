@@ -1,9 +1,9 @@
 [submodule "stm32-hal"]
 	path = stm32-hal
-	url = ../x1_wallet_hal_stm32
+	url = https://github.com/Alark8/x1_wallet_hal_stm32.git
 [submodule "cypherock-common"]
 	path = common/cypherock-common
-	url = ../cypherock-common
+	url = https://github.com/Alark8/cypherock-common.git
 [submodule "nanopb"]
 	path = vendor/nanopb
-	url = ../nanopb
+	url = https://github.com/Alark8/nanopb.git
